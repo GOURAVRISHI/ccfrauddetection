@@ -1,0 +1,11 @@
+2021-09-27	055647		rendering the home page for taking user input
+2021-09-27	060137		Data entered by the user successfully
+2021-09-27	060138		Predicted the output by our model
+2021-09-27	060257		Data entered by the user successfully
+2021-09-27	060257		Predicted the output by our model
+2021-09-28	125814		rendering the home page for taking user input
+2021-09-28	130009		rendering the home page for taking user input
+2021-09-28	130422		rendering the home page for taking user input
+2021-09-28	130451		rendering the home page for taking user input
+2021-09-28	130744		rendering the home page for taking user input
+2021-10-08	133315		rendering the home page for taking user input
