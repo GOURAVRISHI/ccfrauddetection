@@ -78,7 +78,7 @@ You can downlaod the dataset from [here](https://www.kaggle.com/mlg-ulb/creditca
 ## Demo Video
 
 
-https://user-images.githubusercontent.com/66490787/134642400-f8b86a3c-a323-4a97-8d57-03b1dddf3311.mp4
+https://youtu.be/Cv9DExnpBZ4
 
 
 ## Deployment Link
